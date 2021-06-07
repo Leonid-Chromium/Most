@@ -1,0 +1,13 @@
+C:\Users\Leonid\source\repos\Most\Most\bin\Debug\netcoreapp3.1\Most.exe
+C:\Users\Leonid\source\repos\Most\Most\bin\Debug\netcoreapp3.1\Most.deps.json
+C:\Users\Leonid\source\repos\Most\Most\bin\Debug\netcoreapp3.1\Most.runtimeconfig.json
+C:\Users\Leonid\source\repos\Most\Most\bin\Debug\netcoreapp3.1\Most.runtimeconfig.dev.json
+C:\Users\Leonid\source\repos\Most\Most\bin\Debug\netcoreapp3.1\Most.dll
+C:\Users\Leonid\source\repos\Most\Most\bin\Debug\netcoreapp3.1\Most.pdb
+C:\Users\Leonid\source\repos\Most\Most\obj\Debug\netcoreapp3.1\Most.csprojAssemblyReference.cache
+C:\Users\Leonid\source\repos\Most\Most\obj\Debug\netcoreapp3.1\Most.AssemblyInfoInputs.cache
+C:\Users\Leonid\source\repos\Most\Most\obj\Debug\netcoreapp3.1\Most.AssemblyInfo.cs
+C:\Users\Leonid\source\repos\Most\Most\obj\Debug\netcoreapp3.1\Most.csproj.CoreCompileInputs.cache
+C:\Users\Leonid\source\repos\Most\Most\obj\Debug\netcoreapp3.1\Most.dll
+C:\Users\Leonid\source\repos\Most\Most\obj\Debug\netcoreapp3.1\Most.pdb
+C:\Users\Leonid\source\repos\Most\Most\obj\Debug\netcoreapp3.1\Most.genruntimeconfig.cache
